@@ -763,6 +763,19 @@ margin-top: 20px;
           background: white;
           } */
 
+          #btn{
+            color: #fff;
+            background-color: #3e6ff4;
+            border: 1px solid #3e6ff4;
+            padding: 10px;
+            border-radius: 5px;
+          }
+
+          #btn:hover{
+            color: #3e6ff4;
+            background-color: white;
+          }
+
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
